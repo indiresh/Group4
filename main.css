@@ -1,0 +1,100 @@
+
+A:link { 
+	text-decoration: underline; 
+	color:#000000; 
+}
+
+A:visited { 
+	text-decoration: underline; 
+	color:#000000; 
+}
+A:active { 
+	text-decoration: underline; 
+	color:#000000; 
+}
+A:hover { 
+	text-decoration: underline;
+	color:#000000;
+}
+
+
+body {
+	top:0px;
+
+	background: #999999;
+	background-image: url('http://www.secs.oakland.edu/~mjdawson/images/background.jpg');
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+
+   font-family: 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	color: #000000 ;
+	letter-spacing: 0pt;
+	font-weight: normal;
+	font-size: 10pt;
+}
+
+h1 {
+    font-family: 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	color: #ffffff ;
+	letter-spacing: 0pt;
+	font-weight: bolder;
+	font-size: 22pt;
+}
+
+h2 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #ffffff ;
+	letter-spacing: 0pt;
+	font-weight: bold;
+	font-size: 16pt;
+	border-bottom: 1px thick #000000;
+}
+
+
+.content {
+	background-color: #696969;
+  	padding:0px 0px 0px 0px;
+	width:755px;
+	position:absolute;
+	top:110px;
+	left:125px;
+	
+	font-family: 'Lucida Sans Unicode', Verdana, Arial, Helvetica, sans-serif;
+	color: #000000 ;
+	letter-spacing: 0pt;
+	font-weight: normal;
+	font-size: 10pt;
+}
+
+.cart {
+  	padding:0px 0px 0px 0px;
+	width:250px;
+	position:absolute;
+	top:10px;
+	left:630px;
+}
+
+input {
+	background-color: #ffffff;
+  	padding:0px 0px 0px 0px;
+	width:250px;
+	color: #696969;
+}
+
+textarea {
+background-color: #ffffff;
+width: 250px;
+color: #696969;
+}
+
+.radio {
+width: 10px;
+background-color: #ffffff;
+color: #000000;
+}
+
+.check {
+width: 10px;
+background-color: #ffffff;
+color: #000000;
+}
