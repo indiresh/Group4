@@ -74,14 +74,14 @@ h2 {
 	left:630px;
 }
 
-.input {
+input {
 	background-color: #ffffff;
   	padding:0px 0px 0px 0px;
 	width:250px;
 	color: #696969;
 }
 
-.textarea {
+textarea {
 background-color: #ffffff;
 width: 250px;
 color: #696969;
