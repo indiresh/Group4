@@ -7,7 +7,7 @@ $robot = $_POST['robot'];
 $reason = $_POST['reason'];
 $comment = $_POST['comment'];
 $formcontent=" From: $name \n E-mail: $email \n Account: $account \n Robot(s): $robot \n Reason for contacting Us: $reason \n Comments: $comment";
-$recipient = "Maggie.dawson3@gmail.com";
+$recipient = "contactus@build-a-botrobotics.com";
 $subject = "Build-A-Bot";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error! Please go back and fill in all information.");
