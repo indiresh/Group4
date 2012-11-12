@@ -34,14 +34,14 @@
 	<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/index.php">Home</a></li>
             <li class = "submenu"><a href="#"><span></span>Products</a>
 			<ul>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/products/immoveableojbect.php">Immoveable Object</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/products/unstoppableforce.php">Unstoppable Force</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/products/">Robot Type 3</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/products/">Robot Type 4</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableojbect.php">Immoveable Object</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/unstoppableforce.php">Unstoppable Force</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/">Robot Type 3</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/">Robot Type 4</a></li>
 			</ul></li>
             <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/aboutus.php">About Us</a></li>
         <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/techsupport.php">Tech Support</a></li>
-		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/contact.php">Contact</a></li>
+		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/contactus.php">Contact</a></li>
 		<li class = "mainmenu"><a href="#"></a></li>
  </ul>
 </div>
