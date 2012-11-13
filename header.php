@@ -34,7 +34,7 @@
 	<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/index.php">Home</a></li>
             <li class = "submenu"><a href="#"><span></span>Products</a>
 			<ul>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableojbect.php">Immoveable Object</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableobject.php">Immoveable Object</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/unstoppableforce.php">Unstoppable Force</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/rosie.php">Rosie</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/">Robot Type 4</a></li>
