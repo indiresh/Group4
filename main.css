@@ -98,3 +98,22 @@ width: 10px;
 background-color: #ffffff;
 color: #000000;
 }
+
+.button {
+width: 125px;
+background-color: #ffffff;
+color: #000000;
+}
+
+
+span.droptext {border-bottom: thin dotted; }
+span.droptext:hover {text-decoration: none; z-index: 6; }
+span.droptext span {position: absolute; left: -9999px;
+  margin: 20px 0 0 0px; padding: 3px 3px 3px 3px;
+  border-style:solid; border-color:black; border-width:1px; z-index: 6;}
+span.droptext:hover span {left: 2%; background: #ffffff;} 
+span.droptext span {position: absolute; left: -9999px;
+  margin: 4px 0 0 0px; padding: 3px 3px 3px 0px; 
+  border-style:solid; border-color:black; border-width:1px;}
+span.droptext:hover span {margin: 20px 0 0 100px; background: #ffffff; z-index:6;} 
+
