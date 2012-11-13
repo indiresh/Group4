@@ -29,7 +29,7 @@
 	Rosie</br>
 	<input type="checkbox" name="robot" value="TheUnstoppableForce" class="check"/>
 	The Unstoppable Force</br>
-	<input type="checkbox" name="robot" value="Robot4" class="check"/>
+	<input type="checkbox" name="robot" value="Blue Thunder" class="check"/>
 	Robot4</td>
   </tr>
   <tr>
