@@ -37,7 +37,7 @@
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableobject.php">Immoveable Object</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/unstoppableforce.php">Unstoppable Force</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/rosie.php">Rosie</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/">Robot Type 4</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/bluethunder.php">Blue Thunder</a></li>
 			</ul></li>
             <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/aboutus.php">About Us</a></li>
         <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/techsupport.php">Tech Support</a></li>
