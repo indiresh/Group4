@@ -48,6 +48,11 @@ A. We think of a robot as something fully automatic.
 <p>
 <b>Q: When I ask my robot for advice, it tells me to use the Schwartz. What's the Shwartz?</b><br>
 
+<p>
+<b>Q: My robot sits and talks to my car. Why is my robot trying to talk to my car?</b><br>
+
+<p>
+<b>Q: My robot keeps taking bites out of anything metal in my house. Why?</b><br>
 
 <br><br><b>If you have more questions that have not been answered, please go to the <a href="http://www.secs.oakland.edu/~mjdawson/contactus.php">Contact Us</a> page for further assistance.</b>
 
