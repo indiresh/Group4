@@ -94,9 +94,9 @@ if(!$sql){
 } else {
 	$userid = mysql_insert_id();
 	// Let's mail the user!
-	$subject = "Your Membership at MyWebsite!";
+	$subject = "Build-A-Bot Robots!";
 	$message = "Dear $first_name $last_name,
-	Thank you for registering at our website, http://www.mydomain.com!
+	Thank you for registering at our website, http://www.Build-A-Bot.com!
 	
 	You are two steps away from logging in and accessing our exclusive members area.
 	
@@ -107,11 +107,11 @@ if(!$sql){
 	Password: $random_password
 	
 	Thanks!
-	The Webmaster
+	Build-A-Bot
 	
 	This is an automated response, please do not reply!";
 	
-	mail($email_address, $subject, $message, "From: MyDomain Webmaster<admin@mydomain.com>\nX-Mailer: PHP/" . phpversion());
+	mail($email_address, $subject, $message, "From: Build-A-Bot<admin@buildabot.com>\nX-Mailer: PHP/" . phpversion());
 	echo 'Your membership information has been mailed to your email address! Please check it and follow the directions!';
 }
 
