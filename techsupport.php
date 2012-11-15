@@ -61,11 +61,12 @@ A. Please refer to the first question, but hide your copy of spaceballs, instead
 
 <p>
 <b>Q: My robot sits and talks to my car. Why is my robot trying to talk to my car?</b><br>
-A. 
+A. Your robot is obviously lonely. As long as you spend at least 1 hour with your robot everyday, it will probably stop talking to your car. 
+However, if your car begins to respond to your robot, please let us know IMMEDIATELY.
 
 <p>
 <b>Q: My robot keeps taking bites out of anything metal in my house. Why?</b><br>
-A. 
+A. If you refer to your "Robot Manual", you will find that it states very clearly on the first page that you MUST remove all metal objects from your home prior to initial activation of your robot. Why doesn't anyone ever RTM?
 
 <br><br><b>If you have more questions that have not been answered, please go to the <a href="http://www.secs.oakland.edu/~mjdawson/contactus.php">Contact Us</a> page for further assistance.</b>
 
