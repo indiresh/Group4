@@ -30,7 +30,7 @@
 	<input type="checkbox" name="robot" value="TheUnstoppableForce" class="check"/>
 	The Unstoppable Force</br>
 	<input type="checkbox" name="robot" value="Blue Thunder" class="check"/>
-	Robot4</td>
+	Blue Thunder</td>
   </tr>
   <tr>
     <td align=right>Reason for contacting us:</td>
