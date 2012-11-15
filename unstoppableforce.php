@@ -2,7 +2,7 @@
 
 <h1>The Unstoppable Force</h1>
 <img src="http://www.secs.oakland.edu/~mjdawson/images/filler.jpg" height="300" width="250" border="0" alt="Immoveable Object" align="left">
-We are pleased to announce the Unstoppable Force, our most advanced assault robot to date. The Unstoppable Force features a mixture of advanced weaponry, self-shielding, and nanite technology. The Unstoppable Force has two forearm mo 
+We are pleased to announce the Unstoppable Force, our most advanced assault robot to date. The Unstoppable Force features a mixture of advanced weaponry, self-shielding, and nanite technology. The Unstoppable Force has two forearm mounted ion cannons that are retractable into the robot. 
 <p>
 
 <h2>Product Specifications</h2>
