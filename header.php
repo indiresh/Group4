@@ -17,8 +17,8 @@
 <div class="cart">
 		<table width="250" border="0" cellspacing="0" cellpadding="0" align="right">
   		<tr>
-    	<td align="center">Sign In | </td>
-    	<td align="center">View Cart</td>
+    	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/login_form.php">Sign In</a> | </td>
+    	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/join_form.php">Sign Up</a></td>
     	<td align="center"> | Check Out</td>
   		</tr>
 		</table>
