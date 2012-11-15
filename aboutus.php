@@ -3,7 +3,7 @@
 <h1>About Us</h1>
 
 <img src="http://www.secs.oakland.edu/~mjdawson/images/robot.jpg" height="278"
-width="396" border="0" alt="Robot" align="left">
+width="396" border="0" alt="robot" align="left">
 
 
 Welcome to Build-a-Bot!
