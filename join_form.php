@@ -16,7 +16,7 @@
     </tr>
     <tr> 
       <td align="left" valign="top">Address:</td>
-      <td><textarea name="adress" id="adress"><? echo $address; ?></textarea></td>
+      <td><textarea name="address" id="address"><? echo $address; ?></textarea></td>
     </tr>
     <tr> 
       <td align="left" valign="top">&nbsp;</td>
