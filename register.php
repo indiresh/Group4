@@ -20,20 +20,21 @@ $address = stripslashes($address);
 /* Do some error checking on the form posted fields */
 
 if((!$first_name) || (!$last_name) || (!$email_address) || (!$address)){
+include 'header.php';
 	echo 'You did not submit the following required information! <br />';
 	if(!$first_name){
-		echo "First Name is a required field. Please enter it below.<br />";
+		echo "First Name is a required field. Please go back and enter it.<br />";
 	}
 	if(!$last_name){
-		echo "Last Name is a required field. Please enter it below.<br />";
+		echo "Last Name is a required field. Please go back and enter it.<br />";
 	}
 	if(!$email_address){
-		echo "Email Address is a required field. Please enter it below.<br />";
+		echo "Email Address is a required field. Please go back and enter it.<br />";
 	}
 	if(!$address){
-		echo "Address is a required field. Please enter it below.<br />";
+		echo "Address is a required field. Please go back and enter it.<br />";
 	}
-	include 'join_form.php'; // Show the form again!
+	include 'footer.php'; // Show the form again!
 	/* End the error checking and if everything is ok, we'll move on to
 	 creating the user account */
 	exit(); // if the error checking has failed, we'll exit the script!
@@ -85,7 +86,6 @@ $random_password = makeRandomPassword();
 $db_password = md5($random_password);
 
 // Enter info into the Database.
-$info2 = htmlspecialchars($info);
 $sql = mysql_query("INSERT INTO robot_users (first_name, last_name, email_address, address, password)
 		VALUES('$first_name', '$last_name', '$email_address', '$address', '$db_password')") or die (mysql_error());
 
@@ -103,7 +103,7 @@ if(!$sql){
 	To activate your membership, please click here: http://www.mydomain.com/activate.php?id=$userid&code=$db_password
 	
 	Once you activate your memebership, you will be able to login with the following information:
-	Username: $username
+	Username: $email_address
 	Password: $random_password
 	
 	Thanks!
