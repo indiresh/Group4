@@ -16,6 +16,9 @@
       <td>&nbsp;</td>
       <td><input type="submit" name="Submit" value="Submit"></td>
     </tr>
+    <tr>
+      <td colspan="2"><a href="http://www.secs.oakland.edu/~mjdawson/lost_pw.php">Lost Password?</a></td>
+    </tr>
   </table>
 </form>
 
