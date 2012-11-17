@@ -1,6 +1,12 @@
 <?php include ('header.php'); ?>
 
 <h1>About Us</h1>
+
+<a href="http://www.boston.com/bigpicture/2009/03/robots.html">
+<img src="http://cache.boston.com/universal/site_graphics/blogs/
+bigpicture/robots_03_04/r01_17590631.jpg" class="bpImage" 
+style="height:693px;width:990px"></a>
+
 Welcome to Build-a-Bot!
 
 We’re a team of four engineers, each with our own unique robot architecture, 
