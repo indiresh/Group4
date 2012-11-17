@@ -4,7 +4,7 @@
 <img src="http://www.secs.oakland.edu/~mjdawson/images/filler.jpg" height="300" 
 width="250" border="0" alt="Immoveable Object" align="left">
 Rosie is the ultimate maid robot that moves quickly around a home doing 
-household chores such as cleaning, cooking dinner and washing dishes. 
+household chores such as cleaning, cooking dinner, and washing dishes. 
 Rosie has the heart of human being, and a soothing, reassuring voice. 
 Rosie is the soft, cuddly robot that can be stored in your closet any time. 
 Rosie is a soft, cushioned, squishy robot so that it is child proof around 
@@ -19,18 +19,19 @@ people and be able to turn on an object, such as a microwave or coffee maker
 when it senses it is about to be used. Generally, it is trained to mimic human 
 movements and apply them before the human can. Rosie’s purpose is to make your 
 life easier, and allow you to have more time to do other things. She will keep
-your house spot clean, prepare all kinds of things for you, and just overall 
+your house spotless, prepare all kinds of things for you, and just overall 
 be the best maid you could ever have.
 <p>
 
 <h2>Product Specifications: </h2>
-<b>Height:</b> 4.3 feet <br>
+<b>Dimensions:</b> 51 inches tall x 18 inches wide (1.3 m x .45 m) <br>
 <b><span class="droptext">Robot Mass:<span style="width:500px;">How much 
-the robot weighs.</span></span></b> 121 lbs <br>
+the robot weighs.</span></span></b> 121 lbs (54.9 kg) <br>
 <b><span class="droptext">Frame:<span style="width:500px;">What the robot 
 is made from.</span></span></b> Silicone <br>
-<b>Special:</b> Rubber grippers pumped with air <br> &nbsp;&nbsp;Sensory system <br> &nbsp;&nbsp;Computer Brain <br>
-&nbsp;&nbsp;Motor for movement<br>
+<b>Special:</b> Rubber grippers pumped with air <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sensory system <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Brain <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motor for movement<br>
 <b><span class="droptext">Power:<span style="width:500px;">How long it 
 takes this robot to last. (If applicable)</span></span></b> Battery – 10 hours, 
 rechargeable. <br>
