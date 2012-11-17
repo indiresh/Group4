@@ -2,10 +2,11 @@
 
 <h1>About Us</h1>
 
-<a href="http://www.boston.com/bigpicture/2009/03/robots.html">
 <img src="http://cache.boston.com/universal/site_graphics/blogs/
-bigpicture/robots_03_04/r01_17590631.jpg" class="bpImage" 
-style="height:693px;width:990px"></a>
+bigpicture/robots_03_04/r01_17590631.jpg" height="693" 
+width="990" border="0" alt="Immoveable Object" align="center">
+
+<a href="http://www.boston.com/bigpicture/2009/03/robots.html">
 
 Welcome to Build-a-Bot!
 
