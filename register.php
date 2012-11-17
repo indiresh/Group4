@@ -33,7 +33,7 @@ if((!$first_name) || (!$last_name) || (!$email_address) || (!$address)){
 	if(!$address){
 		echo "Address is a required field. Please enter it below.<br />";
 	}
-	include 'join_form.html'; // Show the form again!
+	include 'join_form.php'; // Show the form again!
 	/* End the error checking and if everything is ok, we'll move on to
 	 creating the user account */
 	exit(); // if the error checking has failed, we'll exit the script!
@@ -87,7 +87,7 @@ $db_password = md5($random_password);
 // Enter info into the Database.
 $info2 = htmlspecialchars($info);
 $sql = mysql_query("INSERT INTO robot_users (first_name, last_name, email_address, address, password)
-		VALUES('$first_name', '$last_name', '$email_address', '$address', '$db_password', now())") or die (mysql_error());
+		VALUES('$first_name', '$last_name', '$email_address', '$address', '$db_password')") or die (mysql_error());
 
 if(!$sql){
 	echo 'There has been an error creating your account. Please contact the webmaster.';
