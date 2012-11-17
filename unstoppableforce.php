@@ -2,11 +2,11 @@
 
 <h1>The Unstoppable Force</h1>
 <img src="http://www.secs.oakland.edu/~mjdawson/images/filler.jpg" height="300" width="250" border="0" alt="Immoveable Object" align="left">
-We are pleased to announce the Unstoppable Force, our most advanced assault robot to date. The Unstoppable Force features a mixture of advanced weaponry, self-shielding, and nanite technology. The Unstoppable Force has two forearm mounted ion cannons that are retractable into the robot. 
+We are pleased to announce the Unstoppable Force, our most advanced assault robot to date. The Unstoppable Force features a mixture of advanced weaponry and nanite technology. The Unstoppable Force has two forearm mounted ion cannons that are retractable into the robot.  
 <p>
 
 <h2>Product Specifications</h2>
-<b>Dimensions:</b> 96 inches tall x 36 inches wide (2.44 m x 0.91m)    			<br>
+<b>Dimensions:</b> 96 inches tall x 36 inches wide (2.44 m x 0.91 m)    			<br>
 <b><span class="droptext">Robot Mass:<span style="width:500px;">How much the robot weighs.</span></span></b> 713 lbs (322.4 kg)<br>
 <b>Operating temperature range:</b>	67 F to 89 F (19.4 C to 31.7 C)		<br>
 <b><span class="droptext">Frame:<span style="width:500px;">What the robot is made from.</span></span></b> Quadanium Steel <br>
