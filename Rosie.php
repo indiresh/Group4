@@ -29,7 +29,7 @@ be the best maid you could ever have.
 the robot weighs.</span></span></b> 121 lbs <br>
 <b><span class="droptext">Frame:<span style="width:500px;">What the robot 
 is made from.</span></span></b> Silicone <br>
-<b>Special:</b> Rubber grippers pumped with air, Sensory system, Computer Brain, 
+<b>Special:</b> Rubber grippers pumped with air <br> Sensory system <br> Computer Brain <br>
 Motor for movement<br>
 <b><span class="droptext">Power:<span style="width:500px;">How long it 
 takes this robot to last. (If applicable)</span></span></b> Battery – 10 hours, 
