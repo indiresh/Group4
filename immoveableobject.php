@@ -8,7 +8,7 @@ The Immoveable Object, while not equipt with advanced lasers or high powered rif
 <p>
 
 <h2>Product Specifications</h2>
-<b>Dimensions:</b> 66 inches tall x 18 inches wide (1.67 m x .45m)    			<br>
+<b>Dimensions:</b> 66 inches tall x 18 inches wide (1.67 m x .45 m)    			<br>
 <b><span class="droptext">Robot Mass:<span style="width:500px;">How much the robot weighs.</span></span></b> 180 lbs (81.7 kg)<br>
 <b>Operating temperature range:</b>	50 F to 75 F (10 C to 23.9 C)		<br>
 <b><span class="droptext">Frame:<span style="width:500px;">What the robot is made from.</span></span></b> Vibranium <br>
