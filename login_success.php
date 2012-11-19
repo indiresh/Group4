@@ -1,3 +1,5 @@
+<?php include ('header.php'); ?>
+
 <?
 session_start();
 
@@ -15,3 +17,4 @@ if($_SESSION['user_level'] == 1){
 echo "<br /><a href=logout.php>Logout</a>";
 
 ?>
+<?php include ('footer.php'); ?>
