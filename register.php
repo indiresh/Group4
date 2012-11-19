@@ -96,11 +96,11 @@ if(!$sql){
 	// Let's mail the user!
 	$subject = "Build-A-Bot Robots!";
 	$message = "Dear $first_name $last_name,
-	Thank you for registering at our website, http://www.Build-A-Bot.com!
+	Thank you for registering at our website, Build-A-Bot!
 	
 	You are two steps away from logging in and accessing our exclusive members area.
 	
-	To activate your membership, please click here: http://www.mydomain.com/activate.php?id=$userid&code=$db_password
+	To activate your membership, please click here: www.secs.oakland.edu/~mjdawson/activate.php?id=$userid&code=$db_password
 	
 	Once you activate your memebership, you will be able to login with the following information:
 	Username: $email_address
@@ -112,7 +112,8 @@ if(!$sql){
 	This is an automated response, please do not reply!";
 	
 	mail($email_address, $subject, $message, "From: Build-A-Bot<admin@buildabot.com>\nX-Mailer: PHP/" . phpversion());
-	echo 'Your membership information has been mailed to your email address! Please check it and follow the directions!';
+		include 'header.php';
+	echo 'Your membership information has been mailed to your email address! Please check it and follow the directions! (Check your spam filter!)';
 }
 
 ?>
