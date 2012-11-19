@@ -12,14 +12,13 @@ $code = $_REQUEST['code'];
 
 $sql = mysql_query("UPDATE robot_users SET activated='1' WHERE userid='$userid' AND password='$code'");
 
-$sql_doublecheck = mysql_query("SELECT * FROM robot_users WHERE email_address='$email_address' AND password='$code' AND activated='1'");
+$sql_doublecheck = mysql_query("SELECT * FROM robot_users WHERE userid='$userid' AND password='$code' AND activated='1'");
 $doublecheck = mysql_num_rows($sql_doublecheck);
 
 if($doublecheck == 0){
 	echo "<strong><font color=red>Your account could not be activated!</font></strong>";
 } elseif ($doublecheck > 0) {
-	echo "<strong>Your account has been activated!</strong> You may login below!<br />";
-	include 'login_form.php';
+	echo "<strong>Your account has been activated!</strong> You may login now!<br />";
 }
 
 ?>
