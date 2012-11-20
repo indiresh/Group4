@@ -39,14 +39,14 @@ echo "Welcome, ". $_SESSION['first_name'] ." ". $_SESSION['last_name'] ."!";
 	<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/index.php">Home</a></li>
             <li class = "submenu"><a href="#"><span></span>Products</a>
 			<ul>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableobject.php">Immoveable Object</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/unstoppableforce.php">Unstoppable Force</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/rosie.php">Rosie</a></li>
-				<li><a href="http://www.secs.oakland.edu/~mjdawson/bluethunder.php">Blue Thunder</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/immoveableobject.php">Immoveable Object</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/unstoppableforce.php">Unstoppable Force</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/rosie.php">Rosie</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/bluethunder.php">Blue Thunder</a></li>
 			</ul></li>
-            <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/aboutus.php">About Us</a></li>
-        <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/techsupport.php">Tech Support</a></li>
-		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/contactus.php">Contact</a></li>
+            <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/aboutus.php">About Us</a></li>
+        <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/techsupport.php">Tech Support</a></li>
+		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/contactus.php">Contact</a></li>
 		<li class = "mainmenu"><a href="#"></a></li>
  </ul>
 </div>
