@@ -2,7 +2,7 @@
 
 <h1>Rosie</h1>
 <img src="http://www.secs.oakland.edu/~mjdawson/images/rosie.png" height="300" 
-width="250" border="0" alt="Immoveable Object" align="left">
+width="250" border="0" alt="Rosie" align="left">
 Rosie is the ultimate maid robot that moves quickly around a home doing 
 household chores such as cleaning, cooking dinner, and washing dishes. 
 Rosie has the heart of human being, and a soothing, reassuring voice. 
