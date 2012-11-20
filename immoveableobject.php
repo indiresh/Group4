@@ -1,7 +1,7 @@
 <?php include ('header.php'); ?>
 
 <h1>Immovable Object</h1>
-<img src="http://www.secs.oakland.edu/~mjdawson/images/filler.jpg" height="300" width="250" border="0" alt="Immoveable Object" align="left">
+<img src="http://www.secs.oakland.edu/~mjdawson/images/immoveableobject.jpg" height="300" width="250" border="0" alt="Immoveable Object" align="left">
 We are pleased to announce the Immoveable Object, our most durable robot to date. It is fully armored in plated vibranium for your ultimate protection. One could call this robot almost indestructable.  Frictionless joints allow fluid movement, which is much faster than our previous models. Almost like a real boy [or girl if that tickles your fancy]. In the rare event of critical damage, the Immoveable Object, has a secondary power source which allows it enough time to complete its hard-wired goal, to protect its human at all costs. 
 <p>
 The Immoveable Object, while not equipt with advanced lasers or high powered rifles, makes the perfect added security feature to any family. The Immoveable Object comes pre-loaded with our "Gaurd Dog" software. He is great for patroling the yard while you're not home, or spending time with you in the car when you just need someone to be in the passanger seat so you can be in the carpool lane. Send the Immoveable Object off to college with your child, to keep your mind at ease when they are walking back to their dorm from their late night class. For whatever reason you want the Immoveable Object, its main objective is to keep you safe from harm.
