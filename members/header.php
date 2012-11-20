@@ -10,6 +10,7 @@
 <script type="text/javascript" src="http://www.secs.oakland.edu/~mjdawson/menu/jQuery.js"></script>
 <script type="text/javascript" src="http://www.secs.oakland.edu/~mjdawson/menu/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="http://www.secs.oakland.edu/~mjdawson/menu/menu.js"></script>
+<script type="text/javascript" src="http://www.secs.oakland.edu/~mjdawson/jquery.shorten.1.0.js"></script>
 </head>
 <body>
 
