@@ -30,6 +30,9 @@ echo "Welcome, ". $_SESSION['first_name'] ." ". $_SESSION['last_name'] ."!";
 		</table>
 </div>
 
+</br>
+</br>
+<img src="http://www.secs.oakland.edu/~mjdawson/images/logo.png" height="50" width="350" border="0" alt="logo" align="left">
 
 
 <!-- Navagation Bar -->
