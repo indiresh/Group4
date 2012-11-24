@@ -1,3 +1,6 @@
+<?php require_once 'includes\connection.php'; ?>
+<?php require_once 'includes\functions.php'; ?>
+<?php find_selected_page(); ?>
 <?php include ('header.php'); ?>
 
 <h1>About Us</h1>

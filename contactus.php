@@ -1,3 +1,6 @@
+<?php require_once 'includes\connection.php'; ?>
+<?php require_once 'includes\functions.php'; ?>
+<?php find_selected_page(); ?>
 <?php include ('header.php'); ?>
 
 <form name="contactform" method="post" action="send_email.php">
