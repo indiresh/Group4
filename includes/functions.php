@@ -113,17 +113,6 @@
 				$output .= "><a href=\"content.php?subj=" . urlencode($robot["id"]) . 
 				"\">{$robot["name"]}</a> </li>";
 				
-			/*$page_set = get_pages_for_robot($robot["id"]);
-				$output .= "<ul class=\"pages\">";	
-						
-			while ($page = mysql_fetch_array($page_set)) {
-				$output .= "<li";
-				if ($page["id"] == $sel_page['id']) {$output .= " class=\"selected\"";}
-				
-				$output .= "><a href=\"content.php?page=" . urlencode($page["id"]) .
-				"\">{$page["name"]} </a></li>";
-				}
-			$output .= "</ul>";*/
 			}
 			$output .= "</ul>";
 			
