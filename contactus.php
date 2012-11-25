@@ -14,7 +14,7 @@
     <td><input type="text" name="name" size="50" maxlength="100" /></td>
   </tr> 
   <tr>
-    <td align=right>E-mail:</td>
+    <td align=right>Email Address:</td>
     <td><input type="email" name="email" size="50" maxlength="100" /></td>
   </tr>
   <tr>
