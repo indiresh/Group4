@@ -1,6 +1,3 @@
-<?php require_once 'includes\connection.php'; ?>
-<?php require_once 'includes\functions.php'; ?>
-<?php find_selected_page(); ?>
 <?php include ('header.php'); ?>
 
 <form name="contactform" method="post" action="send_email.php">
@@ -14,7 +11,7 @@
     <td><input type="text" name="name" size="50" maxlength="100" /></td>
   </tr> 
   <tr>
-    <td align=right>E-mail:</td>
+    <td align=right>Email Address:</td>
     <td><input type="email" name="email" size="50" maxlength="100" /></td>
   </tr>
   <tr>
@@ -45,7 +42,7 @@
 		<option value="Other">Other</option></td>
   </tr>
   <tr>
-  	<td align=right valign=top>Comments:</td>
+    <td align=right valign=top>Comments:</td>
 	<td><textarea name="comments" rows=8 cols=50></textarea></td>
   </tr>	
   <tr>
@@ -53,13 +50,7 @@
 	<td><input type="submit" name="Submit" value="Submit" class="button"><INPUT TYPE="reset" value="Clear" class="button"></td>	
   </tr>
 
-<!-- End Content -->
-</td>
-</tr>
 </table>
 </form> 	
-</div>
 
-
-
-
+<?php include ('footer.php'); ?>
