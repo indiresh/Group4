@@ -20,20 +20,21 @@ $address = stripslashes($address);
 /* Do some error checking on the form posted fields */
 
 if((!$first_name) || (!$last_name) || (!$email_address) || (!$address)){
+include 'header.php';
 	echo 'You did not submit the following required information! <br />';
 	if(!$first_name){
-		echo "First Name is a required field. Please enter it below.<br />";
+		echo "First Name is a required field. Please go back and enter it.<br />";
 	}
 	if(!$last_name){
-		echo "Last Name is a required field. Please enter it below.<br />";
+		echo "Last Name is a required field. Please go back and enter it.<br />";
 	}
 	if(!$email_address){
-		echo "Email Address is a required field. Please enter it below.<br />";
+		echo "Email Address is a required field. Please go back and enter it.<br />";
 	}
 	if(!$address){
-		echo "Address is a required field. Please enter it below.<br />";
+		echo "Address is a required field. Please go back and enter it.<br />";
 	}
-	include 'join_form.html'; // Show the form again!
+	include 'footer.php'; // Show the form again!
 	/* End the error checking and if everything is ok, we'll move on to
 	 creating the user account */
 	exit(); // if the error checking has failed, we'll exit the script!
@@ -85,34 +86,34 @@ $random_password = makeRandomPassword();
 $db_password = md5($random_password);
 
 // Enter info into the Database.
-$info2 = htmlspecialchars($info);
 $sql = mysql_query("INSERT INTO robot_users (first_name, last_name, email_address, address, password)
-		VALUES('$first_name', '$last_name', '$email_address', '$address', '$db_password', now())") or die (mysql_error());
+		VALUES('$first_name', '$last_name', '$email_address', '$address', '$db_password')") or die (mysql_error());
 
 if(!$sql){
 	echo 'There has been an error creating your account. Please contact the webmaster.';
 } else {
 	$userid = mysql_insert_id();
 	// Let's mail the user!
-	$subject = "Your Membership at MyWebsite!";
+	$subject = "Build-A-Bot Robots!";
 	$message = "Dear $first_name $last_name,
-	Thank you for registering at our website, http://www.mydomain.com!
+	Thank you for registering at our website, Build-A-Bot!
 	
 	You are two steps away from logging in and accessing our exclusive members area.
 	
-	To activate your membership, please click here: http://www.mydomain.com/activate.php?id=$userid&code=$db_password
+	To activate your membership, please click here: www.secs.oakland.edu/~mjdawson/activate.php?id=$userid&code=$db_password
 	
 	Once you activate your memebership, you will be able to login with the following information:
-	Username: $username
+	Username: $email_address
 	Password: $random_password
 	
 	Thanks!
-	The Webmaster
+	Build-A-Bot
 	
 	This is an automated response, please do not reply!";
 	
-	mail($email_address, $subject, $message, "From: MyDomain Webmaster<admin@mydomain.com>\nX-Mailer: PHP/" . phpversion());
-	echo 'Your membership information has been mailed to your email address! Please check it and follow the directions!';
+	mail($email_address, $subject, $message, "From: Build-A-Bot<admin@buildabot.com>\nX-Mailer: PHP/" . phpversion());
+		include 'header.php';
+	echo 'Your membership information has been mailed to your email address! Please check it and follow the directions! (Check your spam filter!)';
 }
 
 ?>

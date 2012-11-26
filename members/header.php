@@ -16,11 +16,16 @@
 
 <!-- Cart Bar -->
 <div class="cart">
-		<table width="200" border="0" cellspacing="0" cellpadding="0" align="right">
+		<table width="400" border="0" cellspacing="0" cellpadding="0" align="right">
   		<tr>
-    	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/login_form.php">Sign In</a> | </td>
-    	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/join_form.php">Sign Up</a></td>
-    	<td align="center"> | Check Out</td>
+    	<td align="right"><?
+session_start();
+
+echo "Welcome, ". $_SESSION['first_name'] ." ". $_SESSION['last_name'] ."!";
+?>
+
+
+&nbsp;|&nbsp;<a href="http://www.secs.oakland.edu/~mjdawson/logout.php?logmeout">Logout</a>&nbsp;|&nbsp;Check Out</td>
   		</tr>
 		</table>
 </div>
@@ -29,17 +34,23 @@
 </br>
 <img src="http://www.secs.oakland.edu/~mjdawson/images/logo.png" height="50" width="350" border="0" alt="logo" align="left">
 
+
 <!-- Navagation Bar -->
 <div class="menu">
  <ul class="nav">
 	<div id = "navLeft"></div>
 	<div id = "navRight"></div>
 	<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/index.php">Home</a></li>
-            <li class = "submenu"><a href="content.php"><span></span>Products</a>
-			<?php echo navigation($sel_robot)  ?>
-            <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/aboutus.php">About Us</a></li>
-        <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/techsupport.php">Tech Support</a></li>
-		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/contactus.php">Contact</a></li>
+            <li class = "submenu"><a href="#"><span></span>Products</a>
+			<ul>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/immoveableobject.php">Immoveable Object</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/unstoppableforce.php">Unstoppable Force</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/rosie.php">Rosie</a></li>
+				<li><a href="http://www.secs.oakland.edu/~mjdawson/members/bluethunder.php">Blue Thunder</a></li>
+			</ul></li>
+            <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/aboutus.php">About Us</a></li>
+        <li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/techsupport.php">Tech Support</a></li>
+		<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/members/contactus.php">Contact</a></li>
 		<li class = "mainmenu"><a href="#"></a></li>
  </ul>
 </div>
