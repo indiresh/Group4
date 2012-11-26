@@ -2,7 +2,7 @@
 
 <h1>Please Login</h1>
 
-<form action="checkuser.php" method="post" name="" id="">
+<form action="members/checkuser.php" method="post" name="" id="">
   <table width="70%" border="0" align="left" cellpadding="4" cellspacing="0">
     <tr> 
       <td align=right width="22%">Email Address:</td>
