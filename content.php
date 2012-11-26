@@ -1,8 +1,8 @@
 <?php require_once("includes/session.php"); ?>
 <?php require_once 'includes\connection.php';?>
-<?php require_once 'includes\functions.php'; ?>
+<?php require_once 'includes\functions.php';?>
 <?php find_selected_page(); ?>
-<?php include 'includes\header.php'; ?>
+<?php include 'includes\header.php';?>
 <table id="structure">
 	<tr>
 
