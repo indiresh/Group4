@@ -120,7 +120,7 @@
 	function get_home($sel_page){
 		$output = "";
 		
-		$page_set = get_pages($sel_page["id"]);
+		$page_set = get_pages($sel_page);
 		while ($page = mysql_fetch_array($page_set)) {
 			
 				$output .= "<h2> {$page['date']} </h2>";
