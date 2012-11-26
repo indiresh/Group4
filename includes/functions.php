@@ -74,7 +74,7 @@
 		$query = "SELECT * ";
 		$query .= "FROM pages ";
 		$query .= "WHERE id=" . $page_id . " ";
-		//$query .= "LIMIT 1";
+		
 		$result_set = mysql_query($query, $connection);
 		confirm_query($result_set);
 		
@@ -101,15 +101,14 @@
 		}
 	}
 	
-	function navigation(/*$sel_robot*/) {
+	function navigation() {
 			$output = "<ul class=\"robots\">"; 
 
 			$robot_set = get_all_robots();
 			
 			while ($robot = mysql_fetch_array($robot_set)) {
 				$output .= "<li";
-				//if ($robot["id"] == $sel_robot['id']) {$output .= " class=\"selected\"";}
-				
+
 				$output .= "><a href=\"content.php?subj=" . urlencode($robot["id"]) . 
 				"\">{$robot["name"]}</a> </li>";
 				
