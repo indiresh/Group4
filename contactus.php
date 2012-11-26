@@ -1,4 +1,6 @@
-<?php include ('header.php'); ?>
+<?php require_once 'includes\connection.php';?>
+<?php require_once 'includes\functions.php';?>
+<?php include ('includes\header.php'); ?>
 
 <form name="contactform" method="post" action="send_email.php">
 			
@@ -53,4 +55,4 @@
 </table>
 </form> 	
 
-<?php include ('footer.php'); ?>
+<?php include ('includes\footer.php'); ?>

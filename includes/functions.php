@@ -44,9 +44,9 @@
 	
 	function get_pages($page_id) {
 		global $connection;
-		$query = "SELECT * 
-					FROM pages 
-					WHERE id= {$page_id}";
+		$query = "SELECT * ";
+		$query .= " FROM pages"; 
+		$query .= " WHERE id=" . "{$page_id}" ;
 							
 		$page_set = mysql_query($query, $connection);
 		confirm_query($page_set);
