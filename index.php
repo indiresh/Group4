@@ -26,6 +26,15 @@ Legion of Doom members were enthusiastic to join the Build-A-Bot family and gain
 <p>
 </div>
 
+<h2>September 19</h2>
+<div class="comment">
+<h3>Insect Eating Robot coming soon!</h3>
+Details include: Spider-shaped design insect eating robot that uses highly advanced motion and heat sensing technology to locate unwanted insects, terminate them, and collect them for clean up.
+It is completely automated, programable and customizeable. It is basically a roomba with a laser and it can use certain frequencies of sound in order to disorient its targets.
+<p>
+More details to come later! Keep updated with Build-A-Bot!
+</div>
+
 
 
 <script type="text/javascript">
