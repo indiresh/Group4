@@ -17,7 +17,7 @@ Today we released a patch for our robots' operating system, Nutz'n'Boltz. This p
 -Fixed a reported bug that caused some bots to inadvertently shut down when shouted "Boo" at.  
 </div>
 
-<h2>September 19</h2>
+<h2>September 30</h2>
 <div class="comment">
 <h3>Legion of Doom Joins Build-A-Bot</h3>
 We are pleased to announce an addition to our development department! Over the past few months, we have been in talks with a brilliant group of designers led by Lex Luther. Mr. Luther�s group, known as the Legion of Doom, has been on the cutting edge of weapons development for the past few years. We, here at Build-A-Bot, have been impressed by their continued dedication to their goals and resiliency when met with failure. 
