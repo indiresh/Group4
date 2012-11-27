@@ -20,7 +20,7 @@
   		<tr>
     	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/login_form.php">Sign In</a> | </td>
     	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/join_form.php">Sign Up</a></td>
-    	<td align="center"> | Check Out</td>
+    	<td align="center"><a href="http://www.secs.oakland.edu/~mjdawson/login_form.php">Order Form</a> | </td>
   		</tr>
 		</table>
 </div>
