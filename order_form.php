@@ -31,7 +31,7 @@
 
   <tr>
     <td align=right>Payment Method:</td>
-	<td><select name="reason">
+	<td><select name="payment">
 		<option value="blank"></option>
 		<option value="Cash">Cash</option>
 		<option value="Credit/Debit Card">Credit/Debit Card</option>
