@@ -1,6 +1,6 @@
 <?php include ('header.php'); ?>
 <h1>Forget something?</h1>
-Shame on you! Hmm, shall I give it to you?
+Shame on you! Hmm... shall I give it to you?
 <p>
 <form name="form1" method="post" action="lostpw.php">
   <table width="50%" border="0" cellspacing="0" cellpadding="4">
