@@ -25,7 +25,8 @@ A. We think of a robot as something fully automatic.
 
 <p>
 <b>Q: If I have lost control of my robot, and it it currently rampaging a small village, what should I do?</b><br>
-A. Go to Japan. Find Godzilla. Ask him to come fight your robot. Sell tickets. Profit. (Numbered list)
+A. 1) Go to Japan. <br> 2) Find Godzilla. <br> 3) Ask him to come fight your robot. <br> 4) Sell tickets. <br> 5) Profit.
+</br>
 
 <p>
 <b>Q: How do I stop my robot from doing the robot?</b><br>
