@@ -41,8 +41,12 @@
   <tr>
   <td align=right valign=top>                                                                     </td>
  <td><input type="checkbox" name="accept" value="I have read and agreed to the Terms and Conditions" class="check"/>
-	I have read and agreed to the Terms and Conditions</td>
-   </tr>
+	I have read and agreed to the Terms and Conditions<br>
+   <textarea cols="24" rows="2">Terms: 
+Must respond by 30 days.
+Pick up robot at least by chosen date.
+
+If fail to follow these terms, we will charge you a fee of 50% of the robot's value.</textarea></br> </td></tr>
  <tr>
     <td></td>
 	<td><input type="submit" name="Submit" value="Submit" class="button"><INPUT TYPE="reset" value="Clear" class="button"></td>	
