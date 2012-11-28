@@ -25,7 +25,7 @@ echo "Welcome, ". $_SESSION['first_name'] ." ". $_SESSION['last_name'] ."!";
 ?>
 
 
-&nbsp;|&nbsp;<a href="http://www.secs.oakland.edu/~mjdawson/logout.php?logmeout">Logout</a>&nbsp;|&nbsp;Check Out</td>
+&nbsp;|&nbsp;<a href="http://www.secs.oakland.edu/~mjdawson/logout.php?logmeout">Logout</a>&nbsp;|&nbsp;<a href="http://www.secs.oakland.edu/~mjdawson/members/order_form.php">Order Form</a></td>
   		</tr>
 		</table>
 </div>
