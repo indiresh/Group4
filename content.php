@@ -1,6 +1,6 @@
 <?php require_once("includes/session.php"); ?>
-<?php require_once('includes\connection.php');?>
-<?php require_once('includes\functions.php');?>
+<?php require_once 'includes\connection.php';?>
+<?php require_once 'includes\functions.php';?>
 <?php find_selected_page(); ?>
 <?php include 'includes\header.php';?>
 <table id="structure">
@@ -56,15 +56,13 @@
 					break;
 						
 					default:
-						$sel_page =1;
-						?><p><?php echo get_home($sel_page); ?></p><?php
+						?><p><?php echo get_home(1); ?></p><?php
 					break;
 						}
 						echo "</div>";
 						}
 						else {
-							$sel_page =1;
-						?><p><?php echo get_home($sel_page); ?></p><?php
+						?><p><?php echo get_home(1); ?></p><?php
 					} ?>
 			<br />
 			<br />
@@ -72,5 +70,5 @@
 	</tr>
 </table>
 <?php
-	require('includes\footer.php');
+	require 'includes\footer.php';
  ?>
