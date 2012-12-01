@@ -34,7 +34,7 @@
 	<div id = "navLeft"></div>
 	<div id = "navRight"></div>
 	<li class = "mainmenu"><a href="http://www.secs.oakland.edu/~mjdawson/index.php">Home</a></li>
-            <li class = "submenu"><a href="content.php"><span></span>Products</a>
+            <li class = "submenu"><a href="#"><span></span>Products</a>
             <ul>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/immoveableobject.php">Immoveable Object</a></li>
 				<li><a href="http://www.secs.oakland.edu/~mjdawson/unstoppableforce.php">Unstoppable Force</a></li>
