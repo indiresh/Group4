@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td align=right valign=top>Comments:</td>
-	<td><textarea name="comments" rows=8 cols=50></textarea></td>
+	<td><textarea style="resize:none" name="comments" rows=8 cols=50></textarea></td>
   </tr>	
   <tr>
     <td></td>
