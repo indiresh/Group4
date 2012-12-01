@@ -10,7 +10,7 @@
   </tr> 
   <tr>
     <td align=right>Phone Number:</td>
-    <td><input type="text" name="phone" size="20" maxlength="100" /></td>
+    <td><input type="tel" name="phone" size="20" maxlength="100" /></td>
   </tr> 
 
   <tr>
@@ -28,7 +28,10 @@
     <td align=right>Quantity:</td>
     <td><input type="text" name="quantity" size="1" maxlength="100" /></td>
   </tr>
-
+  <tr>
+    <td align=right>Color:</td>
+    <td><input type="text" name="color" size="1" maxlength="100" /></td>
+  </tr>
   <tr>
     <td align=right>Payment Method:</td>
 	<td><select name="payment">
