@@ -42,7 +42,7 @@
   <td align=right valign=top>                                                                     </td>
  <td><input type="checkbox" name="accept" value="I have read and agreed to the Terms and Conditions" class="check"/>
 	I have read and agreed to the Terms and Conditions<br>
-   <textarea cols="24" rows="2">Terms: 
+   <textarea style="resize:none" cols="24" rows="2">Terms: 
 Must respond by 30 days.
 Pick up robot at least by chosen date.
 
