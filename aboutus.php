@@ -27,4 +27,9 @@ robots are capable of, or just generally explore them. You'll love searching thr
 variety of robots and it can make one's life exciting! Think of using this 
 Build-a-Bot as your own personal robot platform. 
 
+<br>
+<br>
+
+<h2>Location</h2>
+<iframe width="735" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Silicon+Valley&amp;aq=1&amp;oq=sili&amp;sll=37.0625,-95.677068&amp;sspn=41.224889,79.013672&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Silicon+Valley&amp;ll=37.362517,-122.03476&amp;spn=0.020261,0.038581&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Silicon+Valley&amp;aq=1&amp;oq=sili&amp;sll=37.0625,-95.677068&amp;sspn=41.224889,79.013672&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Silicon+Valley&amp;ll=37.362517,-122.03476&amp;spn=0.020261,0.038581&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 <?php include ('footer.php'); ?>
